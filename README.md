@@ -2,6 +2,10 @@
 
 This project demonstrates how to analyze Wi-Fi 802.11 network traffic using Scapy, a powerful Python library for packet manipulation and analysis. The script reads a Wireshark pcap file, performs various filtering and parsing operations, and provides detailed output and a summary table of the findings.
 
+## Motivating Article
+M. Thankappan, H. Rifà-Pous and C. Garrigues, "A Signature-Based Wireless Intrusion Detection System Framework for Multi-Channel Man-in-the-Middle Attacks Against Protected Wi-Fi Networks," in IEEE Access, vol. 12, pp. 23096-23121, 2024, doi: 10.1109/ACCESS.2024.3362803.
+https://ieeexplore.ieee.org/abstract/document/10423016
+
 ## Wi-Fi 802.11 Frame Format
 
 The 802.11 frame format consists of several fields that provide important information about the wireless communication. The basic structure of an 802.11 frame includes:
