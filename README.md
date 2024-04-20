@@ -85,3 +85,7 @@ Analyzing Wi-Fi 802.11 network traffic using Scapy and Wireshark is a powerful t
 It is important to be aware of the potential risks associated with Wi-Fi networks and understand how attackers might exploit vulnerabilities. By analyzing the frame structure, management frames, captured SSIDs, and other network characteristics, security professionals can develop effective strategies to detect and mitigate potential threats.
 
 Feel free to customize and enhance the script based on your specific analysis requirements and adapt it to your network environment.
+
+**Disclaimer**
+This repository is intended for educational and research purposes.
+
