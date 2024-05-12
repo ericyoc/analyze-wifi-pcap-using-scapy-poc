@@ -2,9 +2,11 @@
 
 This project demonstrates how to analyze Wi-Fi 802.11 network traffic using Scapy, a powerful Python library for packet manipulation and analysis. The script reads a Wireshark pcap file, performs various filtering and parsing operations, and provides detailed output and a summary table of the findings.
 
-## Motivating Article
+## Motivating Articles
 M. Thankappan, H. Rifà-Pous and C. Garrigues, "A Signature-Based Wireless Intrusion Detection System Framework for Multi-Channel Man-in-the-Middle Attacks Against Protected Wi-Fi Networks," in IEEE Access, vol. 12, pp. 23096-23121, 2024, doi: 10.1109/ACCESS.2024.3362803.
 https://ieeexplore.ieee.org/abstract/document/10423016
+
+Bermejo Higuera J, Abad Aramburu C, Bermejo Higuera J-R, Sicilia Urban MA, Sicilia Montalvo JA. Systematic Approach to Malware Analysis (SAMA). Applied Sciences. 2020; 10(4):1360. https://doi.org/10.3390/app10041360
 
 ## Tools
 Shodan Search Enginer https://www.shodan.io/
